@@ -1,3 +1,5 @@
+# Authors: Lucy Kerner(lkerner@redhat.com)
+
 vm = $evm.root['vm']
 
 lastendscantime = vm.custom_get(:lastendscantime)
