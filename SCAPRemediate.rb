@@ -1,9 +1,6 @@
-#
-# Authors: Lucy Kerner(lkerner@redhat.com)
-#
-#
-#            Method Code Goes here
-#
+
+# Author: Lucy Kerner(lkerner@redhat.com)
+
 $evm.log("info", "SCAP Remediate Start")
 
 require 'rubygems'
