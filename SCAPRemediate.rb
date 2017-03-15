@@ -1,5 +1,5 @@
 #
-# Authors: Jeff Watts(jwatts@redhat.com) and Lucy Kerner(lkerner@redhat.com)
+# Authors: Lucy Kerner(lkerner@redhat.com)
 #
 #
 #            Method Code Goes here
