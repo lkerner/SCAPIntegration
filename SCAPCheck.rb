@@ -1,5 +1,5 @@
 #
-#            Automate Method
+# Authors: Jeff Watts(jwatts@redhat.com) and Lucy Kerner(lkerner@redhat.com)
 #
 $evm.log("info", "SCAPCheck Automate Method Started")
 #
