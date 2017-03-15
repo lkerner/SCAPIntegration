@@ -1,5 +1,5 @@
 #
-#            Automate Method
+# Authors: Jeff Watts(jwatts@redhat.com) and Lucy Kerner(lkerner@redhat.com)
 #
 #
 #            Method Code Goes here
